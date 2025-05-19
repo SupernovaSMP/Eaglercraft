@@ -1,2 +1,21 @@
-This is a free minecraft 1.8 clone that contains 0% of minecrafts code 
-Mojang so Please stop stalking me
+*This conatins 0 lines of minecraft code so stop sending your minions Microsoft!*
+
+Welcome To our Page This is Eaglercraft 1.8 it is minecraft playable in the browser!
+I did not create this it was highly requested so i made a page for you guys were you can download it here is what you do
+
+Step 1 download  Eaglercraft Launcher 1.8.html
+
+Step 2 download  Eaglercraft_Pack.zip
+
+Step 3 Open Eaglercraft Launcher 
+
+Step 4 click on resource Packs
+
+step 5 upload Eaglercraft_Pack.zip To the game
+
+Notes:
+
+Use the relay  wss://eaglerrelay.glitch.me/  For best multiplayer Option!
+
+
+
